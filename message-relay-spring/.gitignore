@@ -1,0 +1,40 @@
+*.class
+*.swp
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# idea cruft
+.idea
+*.iml
+classes/
+
+# build files
+.gradle
+build
+out
+
+# python virtualenv
+venv
+
+# local configs
+local-*properties
+
+# macOS s***
+.DS_Store
+
+# vscode g*rb*ge
+.project
+.classpath
+.settings
+bin/
+
+logs/
